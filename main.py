@@ -70,7 +70,7 @@ async def account_login(bot: Client, m: Message):
 <b>🚀 You are not subscribed to any plan yet!</b>
 
 <blockquote><i>💵 Monthly Plan: ₹ 400</blockquote></i>
-<blockquote><i>Bot commands/start TXT file Upload ke liye /DRM Plan check krne ke liye /myplan add karane ke liye /adduser chat I'd </blockquote></i>
+<blockquote><i>Bot commands/start TXT file Upload ke liye /DRM Plan check krne ke liye /myplan add karane ke liye /adduser chat I'd sampark kren @IFSASHU1BOT</blockquote></i>
 <b>If you want to buy membership of the bot, feel free to contact the Bot</b> [༄ᶦᶰᵈआशु࿐❥◉🇮🇳™](https://t.me/IFSASHU1BOT)</b>''')
 # File paths
 SUBSCRIPTION_FILE = "subscription_data.txt"
