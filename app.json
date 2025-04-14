@@ -1,7 +1,7 @@
 {
     "name": "𝐓𝐞𝐱𝐭 Uploader 𝐃𝐈𝐋𝐉𝐀𝐋𝐄  ™",
     "description": "Download videos from various websites using this telegram bot",
-    "logo": "https://envs.sh/srE.jpg",
+    "logo": "https://te.legra.ph/file/1de7e841cf8598873adbc-bc328531c751765639.jpg",
     "keywords": [
         "text-video",
         "video-extract",
@@ -12,11 +12,11 @@
     "stack": "container",
     "env": {
         "API_ID": {
-            "description": "20567114",
+            "description": "25701324",
             "required": true
         },
         "API_HASH": {
-            "description": "8a5b92106e45fc6637a65a67df060a65",
+            "description": "1e77a6ec377d28e58247dd22de886d39",
             "required": true
         },
         "BOT_TOKEN": {
